@@ -26,8 +26,10 @@ grace handy
 </p>
 
 <p>
-  <img src="https://github.com/gracehandy/gracehandy.github.io/assets/15251713/685ed2cd-2b3d-48f8-bf45-e0663791e132" width="300" height="300">
+  <img src="https://github.com/gracehandy/gracehandy.github.io/assets/15251713/2b0c7cd1-091e-414c-8c59-66d1441616a8" width="300" height="300">
   </p>
+
+
 
   <p>
 archivist, librarian, bookmaker
