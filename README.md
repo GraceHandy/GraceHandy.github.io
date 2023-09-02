@@ -3,12 +3,16 @@
 <html>
 
 <body>
+  
 <p>
 grace handy
   </p>
-  <p>
+
+ <p>
 <a href="gracehandy810@gmail.com">gracehandy810@gmail.com</a>
-    </p>
+</p>
+
+
 <p>
 <img src="https://github.com/gracehandy/gracehandy.github.io/assets/15251713/b46c2992-a7bd-49f0-8664-22cff0158ad9" width="300" height="300">
 </p>
@@ -25,9 +29,17 @@ grace handy
   <img src="https://github.com/gracehandy/gracehandy.github.io/assets/15251713/685ed2cd-2b3d-48f8-bf45-e0663791e132" width="300" height="300">
   </p>
 
-  
+  <p>
+archivist, librarian, bookmaker
+  </p>
 
-  
+  <p>
+  experimental sound and film
+   </p>
+
+ <p>
+  slow reader, close listener
+  </p>
 
 </body>
 
