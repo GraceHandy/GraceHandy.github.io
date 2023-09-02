@@ -26,8 +26,9 @@ grace handy
 </p>
 
 <p>
-  <img src="https://github.com/gracehandy/gracehandy.github.io/assets/15251713/2b0c7cd1-091e-414c-8c59-66d1441616a8" width="300" height="300">
-  </p>
+<img src="https://github.com/gracehandy/gracehandy.github.io/assets/15251713/4a960dba-295d-40df-8f98-22f94a9db205" width="300" height="300">
+</p>
+
 
 
 
