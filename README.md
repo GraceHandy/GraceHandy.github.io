@@ -28,9 +28,6 @@ grace handy
 <img src="https://github.com/gracehandy/gracehandy.github.io/assets/15251713/4a960dba-295d-40df-8f98-22f94a9db205" width="300" height="300">
 </p>
 
-
-
-
   <p>
 archivist, librarian, bookmaker
   </p>
