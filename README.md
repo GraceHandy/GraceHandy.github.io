@@ -1,8 +1,7 @@
 
 <html>
 
-<body
- {font-family: "Times New Roman", Georgia, sans-serif;}
+<body>
   
 <p>
 grace handy
