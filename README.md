@@ -1,7 +1,5 @@
 
 <html>
-
-<body>
   
 <p>
 grace handy
@@ -40,6 +38,5 @@ archivist, librarian, bookmaker
   slow reader, close listener
   </p>
 
-</body>
 
 </html>
