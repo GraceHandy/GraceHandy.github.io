@@ -1,4 +1,3 @@
-# gracehandy.github.io
 
 <html>
 
