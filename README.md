@@ -2,7 +2,7 @@
 <html>
 
 <body
- style="Times New Roman", Times, serif;">
+ {font-family: "Times New Roman", Georgia, sans-serif;}
   
 <p>
 grace handy
